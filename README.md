@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍💻 I’m a Software Developer currently working in NEC.<br>🌍 I’m eager to contribute to open-source projects and collaborate with the developer community.<br>⚙️ I have a strong interest in DevOps practices.<br>📚 I’m actively learning AWS, Linux and other DevOps tools.<br>🚀 I enjoy exploring new technologies and turning ideas into real-world applications.<br>🛠️ Tech Stack: JavaScript, TypeScript, Angular, Java, Spring Boot, AWS, Docker, Kubernetes, terraform, Jenkins.<br>
+🔭 I’m currently working on [CloudCrafters](https://github.com/NOOBO77/CloudCrafters-DevOpsJourney).<br>
 
 
 ## 🌐 Socials:
